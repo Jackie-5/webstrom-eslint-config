@@ -1,0 +1,1 @@
+> `npm i eslint-plugin-jsx-a11y eslint-plugin-import eslint-config-airbnb eslint-plugin-react@latest -g`
